@@ -69,6 +69,7 @@ plt.title('Average Scores by Track')
 #The given graph shows that students who took microelectronics averaged a lot higher compared to the others
 ```
 **OUTCOME:**
+![Screenshot 2024-09-19 224722](https://github.com/user-attachments/assets/fc6cafea-911b-4ce3-9da2-26fad67a07c1)
 
 * Creating the bar graph of the relationship between gender and average scores
 ```
@@ -81,6 +82,7 @@ plt.title('Average Scores by Gender')
 #This graph shows that females scored a lot higher compared to males
 ```
 **OUTCOME:**
+![Screenshot 2024-09-19 224908](https://github.com/user-attachments/assets/793fc447-da18-49d1-a79c-4adea9493d95)
 
 * Creating the bar graph of the relationship between hometown and average scores
 ```
@@ -93,4 +95,5 @@ plt.title('Average Scores by Hometown')
 #Students who lives in Luzon averaged a lot higher compared to those who live in Mindanao and Visayas
 ```
 **OUTCOME:**
+![Screenshot 2024-09-19 225057](https://github.com/user-attachments/assets/708187ed-7901-4b17-9920-39306f2b9ff2)
 
